@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanKhokhar1?tab=repositories](https://github.com/AryanKhokhar1?tab=repositories)
 
-- 💬 Ask me about **Web app , Python , Problem solving**
+- 💬 Ask me about **Web app , Python , Problem solving , Automation**
 
 - 📫 How to reach me **https://www.instagram.com/aryan_khokhar07/**
 
