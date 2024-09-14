@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Aapatkal](https://github.com/AryanKhokhar1/Aapatkal_updated)<br><br>- 🌱 I’m currently learning **Natural Language Processing, React Js ,**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/AryanKhokhar1?tab=repositories](https://github.com/AryanKhokhar1?tab=repositories)<br><br>- 💬 Ask me about **Web app , Python , Problem solving , Automation**<br><br>- 📫 How to reach me **https://www.instagram.com/aryan_khokhar07/**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/16Llm9qHDABhihjYGJPrqDtGn_2LyYW8N/view?usp=drive_link](https://drive.google.com/file/d/16Llm9qHDABhihjYGJPrqDtGn_2LyYW8N/view?usp=drive_link)<br><br>- 🧩 My Portfolio site [https://aryankhokhar.netlify.app/](https://aryankhokhar.netlify.app/)<br><br>- ⚡ Fun fact **I like all type of Music 🫠**
+- 🔭 I’m currently working on [Aapatkal](https://github.com/AryanKhokhar1/Aapatkal_updated)<br><br>
+- 🌱 I’m currently learning **Natural Language Processing, React Js ,**<br><br>
+- 👨‍💻 All of my projects are available at [https://github.com/AryanKhokhar1?tab=repositories](https://github.com/AryanKhokhar1?tab=repositories)<br><br>
+- 💬 Ask me about **Web app , Python , Problem solving , Automation**<br><br>
+- 📫 How to reach me **https://www.instagram.com/aryan_khokhar07/**<br><br>
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Llm9qHDABhihjYGJPrqDtGn_2LyYW8N/view?usp=drive_link](https://drive.google.com/file/d/16Llm9qHDABhihjYGJPrqDtGn_2LyYW8N/view?usp=drive_link)<br><br>
+- 🧩 My Portfolio site [https://aryankhokhar.netlify.app/](https://aryankhokhar.netlify.app/)<br><br>- ⚡ Fun fact **I like all type of Music 🫠**
 
 
 ## 🌐 Socials:
